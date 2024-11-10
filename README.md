@@ -122,6 +122,7 @@
 ├── edition.html
 ├── feature.webp
 ├── gssocextd.webp
+├── help.html
 ├── index.html
 ├── login.html
 ├── logo4.png
@@ -138,6 +139,7 @@
 │   └── painting_image.webp
 ├── review.html
 ├── script1.js
+├── setting.html
 ├── signup.html
 ├── src/
 │   ├── Contributor.css
